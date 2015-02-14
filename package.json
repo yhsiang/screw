@@ -1,0 +1,23 @@
+{
+  "name": "screw",
+  "version": "0.0.1",
+  "description": "Reuse your projects",
+  "main": "screw.js",
+  "dependencies": {
+    "semver": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhsiang/screw.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yhsiang/screw/issues"
+  },
+  "homepage": "https://github.com/yhsiang/screw"
+}
