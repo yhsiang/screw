@@ -5,6 +5,10 @@ There are always some source code you copy and paste from project to project, e.
 With Screw, you can brew a new project with these treasure you created without pulling them in.
 Simply declare it as the base, bundle it, and then it works.
 
+## Authors
+
+@shelling <navyblueshellingford@gmail.com>
+
 ## License
 
 The MIT License (MIT)
