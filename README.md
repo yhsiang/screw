@@ -7,8 +7,8 @@ Simply declare it as the base, bundle it, and then it works.
 
 ## Authors
 
-@shelling <navyblueshellingford@gmail.com>
-@yhsiang  <lyforever62@hotmail.com>
+* [@shelling](https://github.com/shelling) <navyblueshellingford@gmail.com>
+* [@yhsiang](https://github.com/yhsiang) <lyforever62@hotmail.com>
 
 ## License
 
